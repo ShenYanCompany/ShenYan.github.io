@@ -369,6 +369,17 @@ ul.nav.navbar-nav {
 	margin-left: 10.5em;
 }
 
+.TF-agile-news-grid-info{
+    background: #FFF;
+    padding: 0.5em;
+}
+.TF-news-grid-info-img a img{
+	width: 35%;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 10.5em;
+}
 
 
 
