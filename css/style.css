@@ -215,6 +215,8 @@ ul.nav.navbar-nav {
     background-size: cover;
     min-height: 255px;
 }
+
+
 .about-grid-info h4{
     color: #FFF;
     font-size: 2em;
@@ -237,6 +239,55 @@ ul.nav.navbar-nav {
 	background-size: cover;
     min-height: 255px;
 }
+
+
+.zp-about-grid-info{
+    background: url(../images/xiaozhao1.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 255px;
+}
+
+.zp-about-grid-info1{
+	background: url(../images/xiaozhao2.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+.zp-about-grid-info2{
+	background: url(../images/xiaozhao3.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+.zp-about-grid-info3{
+	background: url(../images/xiaozhao4.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+
+
+
+.zp2-about-grid-info{
+    background: url(../images/shezhao1.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 255px;
+}
+
+.zp2-about-grid-info1{
+	background: url(../images/shezhao2.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+.zp2-about-grid-info2{
+	background: url(../images/shezhao3.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+.zp2-about-grid-info3{
+	background: url(../images/shezhao4.jpg)no-repeat 0px 0px;
+	background-size: cover;
+    min-height: 255px;
+}
+
+
 /*-- Effect 1--*/
 .about-grid-info:after {
 	pointer-events: none;
@@ -652,6 +703,7 @@ ul.nav.navbar-nav {
     padding: 0;
 	margin: 0 0 0 0;
 }
+
 .agileits-a-about-grids {
     margin: 2em 0 0 0;
     background: #FFF;
@@ -664,6 +716,22 @@ ul.nav.navbar-nav {
 	margin-bottom: 0em;
 	margin-left: 0;
 }
+
+.zp-agileits-a-about-left {
+    padding: 0;
+	margin: 0 0 0 0;
+}
+
+.zp-agileits-a-about-left img{
+	width: 80%;
+	margin-top: 0em;
+	margin-right: 0;
+	margin-bottom: 0em;
+	margin-left: 0;
+}
+
+
+
 .agileits-a-about-right h3{
     color: #fd5c63;
     font-size: 2em;
@@ -732,6 +800,29 @@ ul.nav.navbar-nav {
     -moz-border-radius: 5px;
     -o-border-radius: 5px;
 }
+
+.zp-w3agile-button {
+    margin: 3em 0 0 0;
+    text-align: center;
+}
+
+
+.zp-w3agile-button a{
+	border: solid 2px #000000;
+	color: #000000;
+	font-size: 0.875em;
+	padding: .5em 2em;
+	text-decoration: none;
+	background: none;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+
+
 .w3agile-button a:hover{
     border: solid 2px #FD5C63;
     color: #FD5C63;
@@ -761,17 +852,17 @@ ul.nav.navbar-nav {
 	position:relative;
 }
 .agileinfo-team-grid img{
-	width:100%;
+	width:70%;
 }
 .captn {
     background: rgba(47, 47, 47, 0.42);
     padding: 2em;
     position: absolute;
     border: solid 1px #FFF;
-    left: 15%;
+    left: 5%;
     bottom: -100%;
     text-align: center;
-    width: 200px;
+    width: 180px;
     height: 200px;
     -webkit-transition: .5s all;
     transition: .5s all;
@@ -1227,6 +1318,9 @@ h2.typoh2{
 	-moz-transition: background 0.5s, color 0.2s;
 	transition: background 0.5s, color 0.2s;
 }
+
+
+
 .effect-2:after {
     top: 27px;
     left: 27px;
